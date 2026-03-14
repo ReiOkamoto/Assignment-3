@@ -32,6 +32,36 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/univeral-travel-adapter/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/travel-neck-pillow/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/portable-charger/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/file-folder/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/noise-cancelling-headphones/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
